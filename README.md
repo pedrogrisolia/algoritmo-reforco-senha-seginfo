@@ -1,0 +1,1 @@
+# algoritmo-reforco-senha-seginfo
