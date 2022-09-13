@@ -3,7 +3,7 @@ Algoritmo que reforça senhas da base rockyou fazendo no máximo 3 substituiçõ
 
 Como rodar:  
 
-Clone este repositório  
+Clone este repositório  https://github.com/pedrogrisolia/algoritmo-reforco-senha-seginfo  
 Instale o node e o typescript, caso não tenha na sua máquina  
 Na raiz do projeto, execute o comando `npm install`  
 Na pasta `src`, rode o programa principal com o comando `ts-node index.ts <nome-do-arquivo-de-entrada.txt> <nome-do-arquivo-de-saida.txt>`  
